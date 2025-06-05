@@ -1,33 +1,33 @@
-STT,Ngành ,Từ khóa 
-1,Ngân hàng,"ngân hàng, lãi suất huy động, tài khoản ngân hàng, tín dụng, lãi suất tiết kiệm, thẻ tín dụng, nợ xấu, tiền gửi, ngân hàng thương mại, hạn mức tín dụng, ngân hàng số, ngân hàng quốc doanh, tăng trưởng tín dụng"
-2,Chứng khoán,"công ty chứng khoán, tài khoản chứng khoán, sàn chứng khoán, môi giới chứng khoán, thị phần môi giới, vay ký quỹ, vay margin, dư nợ margin, tự doanh, thanh khoản"
-3,Bảo hiểm,"Công ty bảo hiểm, bảo hiểm, bảo hiểm nhân thọ, bảo hiểm phi nhân thọ, giá bảo hiểm, phí bảo hiểm, phí bảo hiểm nhân thọ, phí bảo hiểm phi nhân thọ"
-4,BĐS,"bất động sản, thị trường bất động sản, bất động sản dân dụng, nhà ở, giá bất động sản, dự án bất động sản, bất đồng sản nhà ở, giá nhà đất, doanh nghiệp bất động sản, môi giới bất động sản, công ty bất động sản, thị trường nhà đất, nhà đất, bất động sản nghỉ dưỡng, condotel, officetel, đất nền, giá đất nền, căn hộ, khu căn hộ, BĐS, thị trường BĐS, giá BĐS, BĐS nhà ở, dự án BĐS, doanh nghiệp BĐS, công ty BĐS, giải phóng mặt bằng, GPMB"
-5,BĐS Khu công nghiệp ,"khu công nghiệp, bất động sản khu công nghiệp, bất động sản công nghiệp, đất khu công nghiệp, hạ tầng khu công nghiệp, phát triển khu công nghiệp, giải phóng mặt bằng, GPMB, KCN, BĐS KCN, đất KCN, hạ tầng KCN, cho thuê khu công nghiệp, cho thuê KCN"
-6,Thép,"thép, giá thép, thép cuộn càng nóng, thuế chống bán phá giá, chống bán phá giá, ngành thép, sản xuất thép, thép xây dựng, tôn, tôn mạ, thuế CBPG, CBPG"
-7,Đầu tư công xây dựng,"đầu tư công, dự án đầu tư công, giải ngân đầu tư công, giải ngân vốn đầu tư công, vốn đầu tư công, công trình công cộng, dự án công cộng"
-8,Bán lẻ,"bán lẻ, chuỗi bán lẻ, cửa hàng bán lẻ, kênh bán lẻ, tiêu dùng"
-9,Nước,"nước sạch, cung cấp nước, cấp nước, xử lý nước, cấp nước sạch, nước thỉa, xử lý nước thải"
-10,Điện ,"điện, giá điện, sản lượng điện, nhà máy điện, điện tái tạo, thuỷ điện, quy hoạch điện, điện lực, điện khí, điện gió, điện mặt trời, điện hạt nhân"
-11,Dầu khí,"giá dầu, giá dầu khí, dầu khí, dầu thô, giá dầu thô, khí đốt, giá khí đốt, LNG, giá LNG, công ty dầu khí, doanh nghiệp dầu khí, nhà máy lọc dầu, lọc hoá dầu, thăm dò dầu khí, khai thác dầu khí, lô b ô môn, giá xăng, giá dầu Jet A1, khí thiên nhiên, mỏ dầu"
-12,Cao su ,"cao su, ngành cao su, sản xuất cao su, đất cao su, chế biến cao su, cao su thiên nhiên, xuất khẩu cao su"
-13,Công nghệ,"công nghệ, công nghệ thông tin, chuyển đổi số, AI, trí tuệ nhân tạo, đổi mới sáng tạo, công nghệ số, blockchain, công nghệ tự động hoá, IOT, big data"
-14,Viễn Thông ,"viễn thông, công nghệ viễn thông, mạng viễn thông, hạ tầng viễn thông, 3G, 4G, 5G, 6G"
-15,Phân bón,"phân bón, giá phân bón, sản xuất phân bón, đạm, phân bón npk, phân bón hữu cơ, phân bón hoá học, nhà máy phân bón"
-16,Hóa chất,"hoá chất, ngành hoá chất, sản xuất hoá chất, hoá chất cơ bản, nhà máy hoá chất"
-17,Dệt may ,"dệt, may, dệt may, vải, sợi, garment, textile, xuất khẩu, đơn hàng"
-18,Thủy sản,"thủy sản, hải sản, cá, tôm, nuôi trồng, chế biến, cảng, xuất khẩu, doanh nghiệp thủy sản, cá tra, giá cá tra, giá tôm, nuôi trồng thuỷ sản"
-19,Vận tải biển,"vận tải biển, cảng biển, tàu thuyền, hoạt động hàng hải, đường biển"
-20,Cảng,"cảng biển, hạ tầng cảng, vận hành cảng, khai thác cảng, thiết bị cảng, dịch vụ cảng"
-21,Thực phẩm và đồ uống,"nguyên liệu thực phẩm, an toàn thực phẩm, thực phẩm, chế biến thực phẩm, sản xuất thực phẩm, công nghiệp thực phẩm, nước giải khát, cà phê, bia, rượu, nguyên liệu đầu vào, vận chuyển thực phẩm, lưu kho thực phẩm, kiểm định chất lượng, tiêu chuẩn vệ sinh, nhãn mác thực phẩm, thực phẩm sạch, xu hướng ăn uống "
-22,Y tế,"y tế, ngành y, chăm sóc sức khỏe, dịch vụ y tế, hệ thống y tế, cơ sở y tế, bệnh viện, phòng khám, chính sách y tế, ngân sách y tế, bảo hiểm y tế, thanh toán BHYT, cấp phép khám chữa bệnh, quản lý y tế"
-23,Dược ,"dược phẩm, ngành dược, sản xuất thuốc, nghiên cứu thuốc, kinh doanh dược, phân phối dược phẩm, thuốc, biệt dược, nhà thuốc, hiệu thuốc, chuỗi phân phối thuốc, lưu hành thuốc, quản lý giá thuốc, nhập khẩu thuốc, phân phối dược, nghiên cứu lâm sàng, đăng ký lưu hành thuốc, phát triển dược phẩm, sáng chế dược"
-24,Du lịch giải trí,"du lịch, du lịch nội địa, du lịch quốc tế, ngành lữ hành, ngành không khói, khách du lịch, khu nghỉ dưỡng, cơ sở lưu trú, dịch vụ lưu trú, địa điểm du lịch, khu du lịch, chính sách du lịch, visa du lịch, nới lỏng nhập cảnh, xúc tiến du lịch"
-25,Nông nghiệp ,"nông nghiệp, nông sản, nông dân, hoạt động canh tác, cây trồng, vụ mùa, trồng trọt, nông trại, sản lượng cây trồng, ngũ cốc, lúa, gạo, ngô, mía, cà phê, hồ tiêu, điều, chăn nuôi, gia súc, gia cầm, trang trại chăn nuôi, thịt heo, thịt bò, xuất khẩu nông sản, thị trường nông sản, giá nông sản, thương mại nông sản, hợp tác xã nông nghiệp, nông hộ, sản xuất hộ gia đình, tổ hợp tác, nông nghiệp công nghệ cao, canh tác, thời tiết, hạn hán, lũ lụt, dịch bệnh gia súc, dịch bệnh cây trồng, biến đổi khí hậu, chính sách nông nghiệp, trợ giá, hỗ trợ nông dân, quy hoạch vùng trồng, tín dụng nông nghiệp, gói hỗ trợ"
-26,Vật liệu xây dựng,"vật liệu xây dựng, sản xuất vật liệu, VLXD, xi măng, nhà máy xi măng, sản lượng xi măng, tiêu thụ xi măng, giá xi măng, gạch, đá xây dựng, cát xây dựng, vật liệu san lấp, kính xây dựng, kính, tôn, panel, sơn, quy hoạch vật liệu xây dựng, hạn ngạch xuất khẩu xi măng, giá trần thép"
-27,Xe và linh kiện ,"ô tô, xe hơi, xe con, xe SUV, xe tải, xe bán tải, xe chuyên dụng, xe vận tải, dây chuyền lắp ráp, nhà máy ô tô, nội địa hóa linh kiện, ô tô điện, xe hybrid, pin xe điện, trạm sạc, đổi mới công nghệ ô tô, xu hướng xe xanh, chính sách nhập khẩu xe, thuế tiêu thụ đặc biệt, ưu đãi xe điện, bảo hộ ngành ô tô trong nước, doanh số ô tô, doanh số bán xe ô tô"
-28,Tiêu dùng khác ,"hàng tiêu dùng, tiêu dùng nhanh (FMCG), hàng tiêu dùng không thiết yếu, mặt hàng tiêu dùng, sản phẩm tiêu dùng thường ngày, nhu cầu tiêu dùng, tăng trưởng tiêu dùng, hành vi người tiêu dùng, xu hướng chi tiêu, bán lẻ hiện đại, VAT, thuế tiêu dùng, giá cả tiêu dùng, sức mua thị trường, chi tiêu hộ gia đình"
-29,Gỗ,"gỗ rừng trồng, gỗ keo, gỗ cao su, gỗ nguyên liệu, khai thác gỗ, chế biến gỗ, chế biến gỗ, xưởng gỗ, nhà máy gỗ, dây chuyền sản xuất gỗ, sản xuất đồ gỗ, gia công gỗ, sản phẩm xuất khẩu gỗ, xuất khẩu đồ gỗ, thị trường gỗ, đơn hàng xuất khẩu gỗ, kiểm soát nguồn gốc gỗ, lâm nghiệp, chính sách rừng, biến động giá gỗ nguyên liệu, công nghệ chế biến gỗ"
-30,Khoáng sản,"khai thác khoáng sản, mỏ khoáng sản, tuyển khoáng, chế biến khoáng sản, quặng nguyên khai, khai thác mỏ, quặng, đá granite, đất hiếm, than đá, sản xuất alumin, sản lượng khoáng sản, xuất khẩu khoáng sản, thuế xuất khẩu khoáng sản, giá quặng, giấy phép khai thác, cấp phép mỏ, chính sách khoáng sản, quy hoạch khoáng sản, luật khoáng sản, tranh chấp mỏ, tác động môi trường, đình chỉ khai thác, liên doanh khai thác, đầu tư vào mỏ, đấu giá quyền khai thác, chuyển nhượng dự án khoáng sản"
-31,Hàng không,"hàng không, hàng không dân dụng, vận tải hàng không, hãng hàng không, máy bay, giá vé máy bay, hành khách, tăng chuyến, giảm chuyến, hoãn chuyến, hủy chuyến, sân bay, sân bay quốc tế, dịch vụ mặt đất, dịch vụ hàng không, cảng hàng không, quản lý không lưu, nhiên liệu bay, giá dầu Jet A1, Cục Hàng không Việt Nam, giấy phép bay, quy định bay, an toàn bay, quản lý không lưu, chính sách mở cửa hàng không, hạn chế chuyến bay, cấp phép hãng hàng không, đường bay quốc tế, đường bay nội địa, mở đường bay mới, nối lại bay quốc tế, đóng cửa biên giới, gián đoạn bay, khủng hoảng hàng không, liên danh hàng không, đầu tư hạ tầng sân bay, cổ phần hóa hãng hàng không, nâng cấp sân bay, đấu thầu khai thác dịch vụ sân bay"
-32,Nhựa,"nhựa, công nghiệp nhựa, hạt nhựa, nhựa PVC, bao bì nhựa, plastic, ống nhựa, vật liệu nhựa, nhà máy nhựa"
+STT,Ngành 
+1,Ngân hàng
+2,Chứng khoán
+3,Bảo hiểm
+4,BĐS
+5,BĐS Khu công nghiệp 
+6,Thép
+7,Đầu tư công xây dựng
+8,Bán lẻ
+9,Nước
+10,Điện 
+11,Dầu khí
+12,Cao su 
+13,Công nghệ
+14,Viễn Thông 
+15,Phân bón
+16,Hóa chất
+17,Dệt may 
+18,Thủy sản
+19,Vận tải biển
+20,Cảng
+21,Thực phẩm và đồ uống
+22,Y tế
+23,Dược 
+24,Du lịch giải trí
+25,Nông nghiệp 
+26,Vật liệu xây dựng
+27,Xe và linh kiện 
+28,Tiêu dùng khác 
+29,Gỗ
+30,Khoáng sản
+31,Hàng không
+32,Nhựa

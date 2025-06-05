@@ -41,7 +41,7 @@ response = client.responses.parse(
             Phân tích bài báo dựa trên 2 dictionary đã cho (ở dạng CSV). Đầu ra là một danh sách các object theo schema đã cung cấp.
 
             # Mô tả
-            - Chỉ ra bài báo chủ yếu nhắc đến ngành nào.
+            - Chỉ ra bài báo chủ yếu nhắc đến ngành nào trong Dictionary 2.
             - Tìm các công ty thuộc ngành đó được nhắc đến ở trong bài báo, đồng thời có trong dictionary 1.
             - Một ngành có thể chứa nhiều công ty.
 
@@ -61,10 +61,10 @@ response = client.responses.parse(
         },
         {
             "role": "user",
-            "content": f"""# Dictionary 1 (Công ty, mã cp, ngành, từ khóa)
+            "content": f"""# Dictionary 1 (STT,Mã cp,Tên chính thức,Ngành,Từ khóa)
             {company_dictionary}
 
-            # Dictionary 2 (Ngành, từ khóa)
+            # Dictionary 2 (STT,Ngành)
             {sector_dictionary}
 
             # Bài báo
