@@ -90,6 +90,7 @@ for index, row in df_to_crawl.iterrows():
 # If there were errors, all_contents might be shorter or have "Nội dung không tìm thấy" placeholders.
 # We'll re-create the DataFrame based on the actually crawled articles.
 final_df = pd.DataFrame({
+    'id': range(1, len(all_contents) + 1),
     'date': df_to_crawl['date'].reset_index(drop=True),
     'title': df_to_crawl['title'].reset_index(drop=True),
     'link': df_to_crawl['link'].reset_index(drop=True),

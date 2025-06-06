@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "article": "VEF chốt danh sách trả cổ tức với tỷ lệ 43.500 đồng/cổ phiếu",
+        "sector": "BĐS",
+        "companies": [
+            {
+                "company_name": "Tập đoàn Vingroup - CTCP",
+                "company_stock_id": "VIC"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "article": "Công ty con của TLG lên kế hoạch nhận chuyển nhượng gần 8,3 triệu cổ phiếu PNC",
+        "sector": "Tiêu dùng khác",
+        "companies": [
+            {
+                "company_name": "CTCP Tập đoàn Thiên Long",
+                "company_stock_id": "TLG"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "article": "Các nhà đầu tư lớn đang dịch chuyển khỏi thị trường Mỹ",
+        "sector": "Ngân hàng",
+        "companies": [
+            {
+                "company_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+                "company_stock_id": "ACB"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+                "company_stock_id": "BID"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Công Thương Việt Nam",
+                "company_stock_id": "CTG"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh",
+                "company_stock_id": "HDB"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
+                "company_stock_id": "EIB"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Quốc tế Việt Nam",
+                "company_stock_id": "VIB"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id": "VCB"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "article": "Áp lực bán tiếp tục đè nặng, cổ phiếu giảm gấp 3 lần tăng, VN-Index “tuột” mốc 1340 điểm",
+        "sector": "Ngân hàng",
+        "companies": [
+            {
+                "company_name": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+                "company_stock_id": "BID"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Công Thương Việt Nam",
+                "company_stock_id": "CTG"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id": "VCB"
+            },
+            {
+                "company_name": "Ngân hàng TMCP Kỹ thương Việt Nam",
+                "company_stock_id": "TCB"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "article": "Vàng sụt giá vì tin Mỹ - Trung sắp nối lại đàm phán thương mại",
+        "sector": "Ngân hàng",
+        "companies": [
+            {
+                "company_name": "Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id": "VCB"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "article": "Ông Musk tranh cãi với ông Trump, vốn hóa Tesla “bốc hơi” 152 tỷ USD trong một phiên",
+        "sector": "Công nghệ",
+        "companies": [
+            {
+                "company_name": "Công ty cổ phần FPT",
+                "company_stock_id": "FPT"
+            },
+            {
+                "company_name": "CTCP Tập đoàn Công nghệ CMC",
+                "company_stock_id": "CMG"
+            }
+        ]
+    }
+]
